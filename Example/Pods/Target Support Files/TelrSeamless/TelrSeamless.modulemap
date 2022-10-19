@@ -1,0 +1,6 @@
+framework module TelrSeamless {
+  umbrella header "TelrSeamless-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TelrSeamless (0.1.0)
+
+DEPENDENCIES:
+  - TelrSeamless (from `../`)
+
+EXTERNAL SOURCES:
+  TelrSeamless:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TelrSeamless: 4cd4136afde1e6270f9489fef03c1de4f6d37e85
+
+PODFILE CHECKSUM: ef75709b1103faa09ac9ab3a7ff6f867f6abb548
+
+COCOAPODS: 1.11.3

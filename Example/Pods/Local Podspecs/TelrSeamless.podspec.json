@@ -1,0 +1,22 @@
+{
+  "name": "TelrSeamless",
+  "version": "0.1.0",
+  "summary": "A short description of TelrSeamless.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jyothibabuios/TelrSeamless",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jyothibabuios": "jyothibabuios@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jyothibabuios/TelrSeamless.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TelrSeamless/Classes/**/*"
+}
